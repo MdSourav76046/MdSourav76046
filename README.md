@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I’m currently doing Competitve Programming<br>🔭 I’m currently working on SwiftUi<br>👯 I’m looking to collaborate on IOS App Testing <br>🌱 I’m currently learning Flutter, IOS development<br>💬 Ask me about Competitive Programming<br>⚡ Fun fact - I can sing without stammering
+🧠 I’m currently doing Competitve Programming<br>🔭 I’m currently working on SwiftUi<br>👯 I’m looking to collaborate on IOS App Testing <br>🌱 I’m currently learning ML, NLP, LLMs and IOS development<br>💬 Ask me about Competitive Programming<br>⚡ Fun fact - I can sing without stammering
 
 
 ## 🌐 Socials:
